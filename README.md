@@ -170,3 +170,6 @@ Before you move on, make sure you can answer the following questions:
 - [Chrome DevTools: Working With Cookies](https://developer.chrome.com/docs/devtools/storage/cookies/)
 
 [same site cookies]: https://web.dev/samesite-cookies-explained/
+
+
+Great lesson
